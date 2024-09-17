@@ -1,0 +1,5 @@
+- React
+- TypeScript
+- Axios
+- Styled-components
+- Heroicons
