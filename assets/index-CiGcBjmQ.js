@@ -13899,7 +13899,7 @@ const vg =
 	flex-direction: column;
 	gap: 1.6rem;
 `,
-	Rg = "https://ulvis.net/api.php",
+	Rg = "https://corsproxy.io/?https://ulvis.net/api.php",
 	Pg = () => {
 		const [e, t] = Me.useState(!1),
 			[n, r] = Me.useState(void 0),
